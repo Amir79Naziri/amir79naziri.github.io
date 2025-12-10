@@ -3,11 +3,11 @@ title: "From Bias to Breakdown: Benchmarking Failure Mode Analysis of Single-cel
 collection: publications
 category: manuscripts
 permalink: /publication/2025-From-Bias-to-Breakdown
-excerpt: “This work benchmarks single-cell RNA-seq foundation models on Acute Myeloid Leukemia, revealing significant performance drops in underrepresented disease conditions and motivating structured failure-mode analysis beyond overall accuracy.”
+excerpt: "This work benchmarks single-cell RNA-seq foundation models on Acute Myeloid Leukemia, revealing significant performance drops in underrepresented disease conditions and motivating structured failure-mode analysis beyond overall accuracy."
 date: 2025-11-23
-venue: “Proceedings of the AAAI Symposium Series, Vol. 7, Issue 1, pp. 553–557”
-paperurl: “https://ojs.aaai.org/index.php/AAAI-SS/article/view/36931”
-authors: “Amirreza Naziri, Arash Asgari, Aijun An, Eleftherios Sachlos, Laleh Seyyed-Kalantari”
+venue: "Proceedings of the AAAI Symposium Series, Vol. 7, Issue 1, pp. 553–557"
+paperurl: "https://ojs.aaai.org/index.php/AAAI-SS/article/view/36931"
+authors: "Amirreza Naziri, Arash Asgari, Aijun An, Eleftherios Sachlos, Laleh Seyyed-Kalantari"
 ---
 
 Foundation models trained on large-scale single-cell RNA sequencing (scRNA-seq) data have demonstrated impressive performance across diverse biological tasks. However, the datasets used for pretraining tend to be highly imbalanced across disease states, patient conditions, and demographic groups. In particular, disease samples—such as those from Acute Myeloid Leukemia (AML)—are much less common than healthy samples, creating a structural imbalance that may undermine real-world reliability.
