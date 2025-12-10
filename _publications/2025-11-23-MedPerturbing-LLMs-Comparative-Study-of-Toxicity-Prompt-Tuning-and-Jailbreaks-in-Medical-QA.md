@@ -1,5 +1,5 @@
 ---
-title: “MedPerturbing LLMs: A Comparative Study of Toxicity, Prompt Tuning, and Jailbreaks in Medical QA”
+title: “MedPerturbing LLMs, A Comparative Study of Toxicity, Prompt Tuning, and Jailbreaks in Medical QA”
 collection: publications
 category: manuscripts
 permalink: /publication/

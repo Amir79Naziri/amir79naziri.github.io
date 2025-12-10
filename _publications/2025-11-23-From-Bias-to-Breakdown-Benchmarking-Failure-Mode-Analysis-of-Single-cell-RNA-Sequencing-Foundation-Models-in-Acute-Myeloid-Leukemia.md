@@ -1,5 +1,5 @@
 ---
-title: “From Bias to Breakdown: Benchmarking Failure Mode Analysis of Single-cell RNA Sequencing Foundation Models in Acute Myeloid Leukemia”
+title: “From Bias to Breakdown, Benchmarking Failure Mode Analysis of Single-cell RNA Sequencing Foundation Models in Acute Myeloid Leukemia”
 collection: publications
 category: manuscripts
 permalink: /publication/2025-From-Bias-to-Breakdown
